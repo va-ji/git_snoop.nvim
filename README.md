@@ -24,7 +24,7 @@ A Neovim plugin for viewing git file history with advanced diffing and blame fea
 
 ```lua
 {
-  'your-username/git_snoop.nvim',
+  'va-ji/git_snoop.nvim',
   dependencies = {
     'nvim-lua/plenary.nvim'
   },
@@ -46,7 +46,7 @@ A Neovim plugin for viewing git file history with advanced diffing and blame fea
 
 ```lua
 use {
-  'your-username/git_snoop.nvim',
+  'va-ji/git_snoop.nvim',
   requires = {
     'nvim-lua/plenary.nvim'
   },
@@ -64,7 +64,7 @@ use {
 
 ```vim
 Plug 'nvim-lua/plenary.nvim'
-Plug 'your-username/git_snoop.nvim'
+Plug 'va-ji/git_snoop.nvim'
 ```
 
 Then in your init.lua:
